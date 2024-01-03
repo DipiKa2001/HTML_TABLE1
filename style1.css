@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table,tr,th,caption{
+    border: 5px solid green;
+    border-collapse: collapse;
+}
